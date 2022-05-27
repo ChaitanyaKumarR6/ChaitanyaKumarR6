@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChaitanyaKumarR6
-- 👀 I’m interested in ... Cyber Security
-- 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ... Frontend Developer
+- 👀 I’m interested in ... Data Science
+- 🌱 I’m currently learning ... Python
+- 💞️ I’m looking to collaborate on ... Data Analyst
 - 📫 How to reach me ... chaitanya.ck6@gmail.com
 
 <!---
